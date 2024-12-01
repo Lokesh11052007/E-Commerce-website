@@ -1,1 +1,1 @@
-[Open index.html](index.html)
+[Open index.html](loki.html)
